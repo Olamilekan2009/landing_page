@@ -1,0 +1,44 @@
+/* navbar styles */
+.navbar.housing{
+    background-color: #1f2937;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+.navbar .container{
+    background-color: #1f2937;
+    display: flex;
+    align-items: center;
+    gap: 100px;
+}
+.navbar .logo{
+    margin-left: 200px;
+}
+.navbar .menu{
+    display: flex;
+    gap: 25px;
+    margin-left: 500px;
+}
+/* hero text styles */
+.word.container{
+    background-color: #1f2937;
+    display: flex;
+}
+.paragraph.big{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+.paragraph.small{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+.bttn{
+    background-color: #3882f6;
+    margin-top: 5px;
+    color: #F9FAF8;
+    border-style: none;
+    border-radius: 5px;
+}
